@@ -1,10 +1,16 @@
-// Ola, mundo!
-const mensagem = "Olá, Eu!"
-
-{
-        const mensagem = "Olá, Mundo"
-        console.log(mensagem)
+let meta = {
+    value: "ler um livro por mês",
+    checked: true,
+    
 }
 
-console.log(mensagem);
+let metas = [
+    meta,
+    {
+        value: "caminhar 20 minutos todos os dias",
+        checked: false
 
+    }
+]
+
+console.log(meta[1].value)
