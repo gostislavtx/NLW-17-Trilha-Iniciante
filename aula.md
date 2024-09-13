@@ -53,3 +53,30 @@ Apresentar os dados
 -  [x] criar, passar argumento
 -  [x] executar
 -  [x] função de seta / função nomeada
+
+### Arrays
+
+- Uma lista que contém qualquer tipo de dado
+- Métodos de array: push, find, forEach
+
+## Objetos:
+
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
+
+## Functions
+- [x] criar, passar argumento
+- [x] excutar
+- [x] arrow function / named function
+
+## Estrutura de repetição
+- [x] while
+- [x] Condicionais
+- [x] switch
+- [x] if/else
+- [x] Módulos em Node.js:
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+- [x] Programação assíncrona e Promises:
+- [x] Uso de funções assíncronas (async/await)
