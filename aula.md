@@ -12,7 +12,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - Tipos de dados (string, número, booleano)
 - Estrutura de dados (funções, objeto, array)
 - Controle de fluxo (if/else)
-- Estrutura de reprodução (para, enquanto)
+- Estrutura de repetição (for, while) (para, enquanto)
 
 # Fases da resolução de um problema
 
@@ -59,7 +59,7 @@ Apresentar os dados
 ### Arrays
 
 - [x] Uma lista que contém qualquer tipo de dado
-- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions) (Array: Toda funçao que está dentro de um objeto)
+- [x] Métodos de array: push, [find, forEach, filter, map] : HOF (Higher Order Functions) (Array: Toda funçao que está dentro de um objeto)
 
 ## Objetos:
 
