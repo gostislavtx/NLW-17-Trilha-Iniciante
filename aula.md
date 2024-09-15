@@ -77,8 +77,16 @@ Apresentar os dados
 - [x] Condicionais
 - [x] switch
 - [x] if/else
-- [x] Módulos em Node.js:
+### Módulos em Node.js:
 - [x] Importação de módulos (require, CommonJS)
+- [x] FS(file system)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
-- [x] Programação assíncrona e Promises:
+## JSON 
+
+- [x] Javascript object notation (.json)
+- [x] JSON.parse() transforma de JSON para JS
+- [x] JSONstringify() transforma de JS para JSON
+- [x]
+
+### Programação assíncrona e Promises:
 - [x] Uso de funções assíncronas (async/await)
